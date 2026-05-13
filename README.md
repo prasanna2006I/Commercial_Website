@@ -1,5 +1,7 @@
 # Ex02 Commercial Website
-## Date:
+## Date:13/05/2026
+## NAME:PRASANNA I
+## REG NO:212223220079
 
 ## AIM
 To create a commercial website using CSS Flexbox.
